@@ -35,18 +35,9 @@
 ## 🖼️ Примеры работы
 
 - **Главное окно:**
-
-<details>
-    <summary>Показать</summary>
-    
-   
+  
    <img width="335" height="420" alt="калькулятор1" src="https://github.com/user-attachments/assets/6f65f391-551f-4cdb-b0e1-9ae88bc9898c" />
    <img width="337" height="420" alt="калькулятор2" src="https://github.com/user-attachments/assets/1200a3d6-1b9d-46af-ab2b-35f65ab8b171" />
-</details>
-
-
-
- 
 
 - **Пример вычисления выражения:**
   
